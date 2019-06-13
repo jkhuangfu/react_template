@@ -1,4 +1,4 @@
-`此模板基于 create-react-app Ver2 进行配置`
+`此模板基于 create-react-app 最新版(2019-06) 进行配置`
 
 `1、本模板支持 css、less、sass、scss的普通样式以及 module 模式,第三方（node_modules内）样式使用非 module 模式`
 
